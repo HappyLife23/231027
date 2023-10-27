@@ -3,6 +3,10 @@
   margin: 0;
 }
 
+.todays-lunch {
+    display: none;
+}
+
 body {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
